@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RotatingBuffalo
 - 👀 I’m interested in video game development, the nord color palette, and pointless side projects.
-- 🌱 I’m currently learning C++, a bit of java, and quantum computing with Python3 and QISKit. 
+- 🌱 I’m currently getting into Java with minecraft modding, and quantum computing with Python3 and QISKit. 
 - 💞️ I’m looking to collaborate on pretty much anything honestly, I need experience working with other people.
-- 📫 How to reach me --> hit me on discord at Your Attorney#0001
+- 📫 How to reach me --> hit me on discord at `authentic j#0001`
