@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RotatingBuffalo
-- 👀 I’m interested in video game development, the nord color palette, and pointless side projects.
-- 🌱 I’m currently getting into Java with minecraft modding, and quantum computing with Python3 and QISKit. 
-- 💞️ I’m looking to collaborate on pretty much anything honestly, I need experience working with other people.
-- 📫 How to reach me --> hit me on discord at `authentic j#0001`
+# Hey man, what's good?
+- I'm RotatingBuffalo (he/him), a computer science student with experience in Java, C#, C++, and Rust.
+- You'll probably find me working on projects related to either video game modding, or linux desktop ricing.
+- I'm currently interested in learning functional programming techniques. (all my homies hate global state)
+### If you're trying to get into contact with me, either email me at `fmbellomy@quantumgarbage.com`or message me on discord at `authentic j#8080`
